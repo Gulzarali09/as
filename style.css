@@ -1,0 +1,25 @@
+img {
+    border-radius: 50%;
+  }
+
+  h1
+  {
+    font-size: 50px;
+    font-family: algerian;
+
+  }
+
+  source
+  {
+    color: rgb(84, 0, 117);
+
+  }
+ a{
+    color: white;
+    font-style: italic;
+    background-color: black;
+ }
+ .a
+ {
+    background-color: wheat;
+ }
